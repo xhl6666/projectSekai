@@ -1,5 +1,12 @@
 # projectSekai
 
+## Update
+
+开新坑了 暂时无限搁置各种bot插件开发 
+Client已经粗糙的实现了 想必看到这个仓库的你也会着手开发对应的功能了吧
+
+## Description
+
 这是一个关于游戏[プロセカ](https://pjsekai.sega.jp/)(世界计划 多彩舞台)的相关功能插件
 
 本插件适用于[HoshinoBot v2](https://github.com/Ice-Cirno/HoshinoBot)
